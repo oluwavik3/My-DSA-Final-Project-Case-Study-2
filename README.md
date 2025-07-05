@@ -42,3 +42,21 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
   -  Count: to count the number of rows in a result
   -  Sum(): Calculates the total sum of a numeric column
 
+## Observation 
+This mismatch indicates that the company may not be optimally aligning shipping speed with urgency, resulting in higher costs and delivery risks.
+- A significant number of low-priority orders used Express Air, unnecessarily increasing shipping costs.
+- Some high-priority orders used Delivery Truck, risking delays and potential customer dissatisfaction.
+## Implications 
+- Higher costs: Money spent on speed where it wasn’t needed.
+- Delivery risks: Potential late deliveries for critical orders.
+
+## Recommendations
+1. Enforce shipping guidelines that link Order Priority to specific shipping methods:
+   - Critical/High → Express Air
+   - Medium/Low → Delivery Truck
+2. Add system checks to flag any shipping choice that doesn’t match the order’s urgency.
+3. Train staff to select the appropriate shipping method consistently.
+
+## Recommendation on what to do to increase the revenue from the bottom 10 customers
+- KMS should identify its bottom 10 customers by sales and implement a targeted engagement plan. This plan should include cross-selling, personalized promotions, and direct outreach to understand barriers to larger orders. Tracking results over time will help determine which tactics deliver the best ROI.
+
