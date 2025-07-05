@@ -27,10 +27,18 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
 
 ## Action Taken
 1. Import the table into the SQL server
-2. Checked for duplicte (no duplicate found)
-3. Then I started analysing
-4. Applying each of the SQL command to where it's needed
+2. Define the data type (Which is used to define the values that a column can contain).
+3. Set the SQL key ( are special fields in a table, it helps Create relationships between tables, Maintain uniqueness,Ensure data is consistent and valid).
+### The SQL key use
+- Primary key (is a special type of key that uniquely identifies each record in a table)
+4. Checked for duplicte (no duplicate found)
+5. Then I started analysing
+6. Applying each of the SQL command to where it's needed
 ### Some of the SQL command Used are
   - Select: It is used to select the attribute based on the condition described by WHERE clause
-  -  
+  -  Group by: is used to arrange identical data into groups
+  -  Order by: sorts the result-set in ascending or descending order.
+  -  Union all: to combines the results of two or more SELECT queries
+  -  Count: to count the number of rows in a result
+  -  Sum(): Calculates the total sum of a numeric column
 
