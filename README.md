@@ -26,4 +26,11 @@ Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 
 ## Action Taken
+1. Import the table into the SQL server
+2. Checked for duplicte (no duplicate found)
+3. Then I started analysing
+4. Applying each of the SQL command to where it's needed
+### Some of the SQL command Used are
+  - Select: It is used to select the attribute based on the condition described by WHERE clause
+  -  
 
